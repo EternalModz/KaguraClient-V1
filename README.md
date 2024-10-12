@@ -5,7 +5,7 @@ The source code of my first KaguraClient SPRX for Minecraft PS3
 Make what you want with this source and have fun!
 Remember the only one rule its credits the original creator, thx in advance ^^
 
-#How to use and build ?
+# How to use and build ?
 
 Very Easy. Install on your PC the PS3 SDK latest version available, ProDG and Visual Studio Pro 2013.
 I recommend have a 8gb of ram and 15go available on your system.
