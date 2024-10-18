@@ -1,4 +1,11 @@
-﻿#pragma once
+/*
+ * Copyright (c) 2024, AzeY's Company
+ * All rights reserved.
+ *
+ * This code is distributed under the BSD 3-Clause License.
+ */
+
+#pragma once
 #pragma comment(lib, "libhttp_stub.a")
 #pragma comment(lib, "libhttp_util_stub.a")
 #pragma comment(lib, "libnet_stub.a")
